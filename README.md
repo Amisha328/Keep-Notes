@@ -33,10 +33,18 @@ Digital way of making notes. Note-taking application to make a good note on the 
         </tr>
  </table>
  
-## Android Application build using 
-- JAVA for back-end
-- XML for back-end
-- SQLite for databse
+## Technology
+
+- `JAVA` for back-end
+- `XML` for front-end
+- `SQLite` for database
+
+## Tools
+
+- `Android Studio`
+- `Git`
+- `GitHub`
+
 
 
 
