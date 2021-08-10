@@ -13,15 +13,15 @@ Digital way of making notes. Note-taking application to make a good note on the 
 
 <table>
         <tr> 
-         <td>1. Main Dashboard </br></br> <img src = "screenshots/Main dashboad page.jpeg"  width="200"></td>
-         <td>2. Add Notes Page </br></br><img src = "screenshots/Add notes page.jpeg"  width="200"></td>
+         <td>1. Main Dashboard </br></br> <img src = "screenshots/Main dashboad page.jpeg"  width="230"></td>
+         <td>2. Add Notes Page </br></br><img src = "screenshots/Add notes page.jpeg"  width="230"></td>
         </tr>
  </table>
 
 <table>
         <tr> 
-         <td>3. Speak and Write </br></br> <img src = "screenshots/Speak and write.jpeg"  width="200"></td>
-         <td>4. Speech to Text </br></br><img src = "screenshots/speech to text.jpeg"  width="200"></td>
+         <td>3. Speak and Write </br></br> <img src = "screenshots/Speak and write.jpeg"  width="230"></td>
+         <td>4. Speech to Text </br></br><img src = "screenshots/speech to text.jpeg"  width="230"></td>
         </tr>
  </table>
  
