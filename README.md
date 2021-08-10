@@ -26,6 +26,13 @@ Digital way of making notes. Note-taking application to make a good note on the 
         </tr>
  </table>
  
+ <table>
+        <tr> 
+         <td>6. Update File </br></br> <img src = "screenshots/Update file.jpeg"  width="230"></td>
+         <td>7. Save Updated File </br></br><img src = "screenshots/save updated file.jpeg"  width="230"></td>
+        </tr>
+ </table>
+ 
 ## Android Application build using 
 - JAVA for back-end
 - XML for back-end
