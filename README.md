@@ -22,6 +22,7 @@ Digital way of making notes. Note-taking application to make a good note on the 
         <tr> 
          <td>3. Speak and Write </br></br> <img src = "screenshots/Speak and write.jpeg"  width="230"></td>
          <td>4. Speech to Text </br></br><img src = "screenshots/speech to text.jpeg"  width="230"></td>
+         <td>5. Save File </br></br><img src = "screenshots/File saved.jpeg"  width="230"></td>
         </tr>
  </table>
  
